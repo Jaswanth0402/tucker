@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959945961419",
+    "project_id": "tucker-ev",
+    "storage_bucket": "tucker-ev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959945961419:android:bf44a6b7063acc5372104e",
+        "android_client_info": {
+          "package_name": "com.example.tucker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyijD7CNKX8CqG4EHnZALr9b_bBpCZek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
